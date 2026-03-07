@@ -3,7 +3,7 @@
 This project is a Product Management System built using Spring Boot.  
 It provides REST APIs to manage products and handle user authentication in a secure manner.
 
-The application allows users to **register and log in, and once authenticated, perform CRUD (Create, Read, Update, Delete) operations on products along with search functionality.  
+The application allows users to register and log in, and once authenticated, perform CRUD (Create, Read, Update, Delete) operations on products along with search functionality.  
 Security is implemented using Spring Security and JWT (JSON Web Token) to ensure only authenticated users can access protected endpoints.
 
 
